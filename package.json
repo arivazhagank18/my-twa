@@ -1,6 +1,7 @@
 {
   "name": "my-twa",
   "private": false,
+  "homepage": "https://arivazhagank18.github.io/my-twa",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
